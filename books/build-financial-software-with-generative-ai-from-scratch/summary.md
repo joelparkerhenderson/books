@@ -1,0 +1,11 @@
+### Key concepts
+
+Build Financial Software with Generative AI from Scratch demonstrates constructing complete financial applications leveraging generative AI for tasks including market analysis, portfolio optimization, risk assessment, and automated trading strategy development. The book covers integrating LLMs for financial document analysis, generating trading signals from news and reports, creating natural language interfaces for financial data queries, and building AI-powered financial advisors. Core technical concepts include fine-tuning models on financial domain data, implementing retrieval augmented generation with financial databases, ensuring regulatory compliance and auditability of AI-generated financial decisions, and managing risks specific to AI in high-stakes financial applications.
+
+### Who should read it and why
+
+This book targets fintech developers, quantitative analysts, and software engineers building financial applications who want to leverage generative AI capabilities while meeting finance industry requirements for accuracy, compliance, and risk management. Readers should have programming experience and basic understanding of financial concepts, with ML background helpful but not required. The material appeals to those building robo-advisors, algorithmic trading systems, financial research tools, or customer-facing financial applications seeking practical guidance on responsible AI integration in regulated financial contexts.
+
+### Practical applications
+
+The book provides end-to-end implementation of financial applications including automated report generation from financial statements, sentiment analysis of earnings calls and news, portfolio recommendation systems, and conversational interfaces for financial data exploration. Readers learn techniques for grounding AI outputs in verified financial data, implementing audit trails for AI decisions, stress-testing AI components for market scenarios, and building safeguards against hallucinations in financial advice. The material covers regulatory considerations, backtesting AI-generated strategies, integrating with financial data APIs, and designing systems that combine AI capabilities with traditional quantitative finance methods for robust production systems.

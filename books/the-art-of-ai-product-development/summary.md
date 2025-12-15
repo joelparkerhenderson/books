@@ -1,0 +1,11 @@
+### Key concepts
+
+The Art of AI Product Development focuses on the complete lifecycle of AI-powered products from ideation through deployment and iteration, emphasizing product management, user experience, and business considerations beyond pure technical implementation. The book covers identifying AI opportunities that deliver genuine user value versus technology-driven solutions seeking problems, designing AI features that augment rather than frustrate users, and managing stakeholder expectations about AI capabilities and limitations. Core principles include iterative development with rapid user feedback, building trust through transparent AI behavior, handling edge cases and failures gracefully, and measuring success through product metrics rather than just model accuracy.
+
+### Who should read it and why
+
+This book targets product managers, designers, and engineering leads building AI-powered products who need holistic guidance beyond machine learning techniques, requiring understanding of product development but not deep AI technical expertise. The material appeals to those responsible for AI product strategy and execution, startups building AI-first products, and established companies integrating AI into existing offerings. Readers benefit from frameworks for making build-versus-buy decisions, prioritizing AI features, and avoiding common pitfalls where technically impressive AI fails to deliver user or business value.
+
+### Practical applications
+
+The book provides practical frameworks for validating AI product ideas, defining success metrics that matter for products not just models, designing user interfaces that set appropriate expectations for AI capabilities, and creating feedback loops for continuous improvement. Readers learn techniques for rapid prototyping with AI, conducting user research specific to AI products, A/B testing AI features, and building data flywheels where product usage improves models. The material covers managing AI product risks including bias, privacy, and unexpected behaviors, communicating AI capabilities honestly to users and stakeholders, and building organizations and processes that support successful AI product development from conception through scaling.

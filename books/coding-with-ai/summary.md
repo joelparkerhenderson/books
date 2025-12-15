@@ -1,0 +1,11 @@
+### Key concepts
+
+Coding with AI explores how AI-powered tools like GitHub Copilot, ChatGPT, and specialized code assistants transform software development workflows, moving beyond autocomplete to generating functions, tests, documentation, and entire code modules from natural language descriptions. The book covers effective prompt engineering for code generation, understanding when AI suggestions are reliable versus when human review is critical, and integrating AI assistants into development environments and CI/CD pipelines. Core concepts include the strengths and limitations of code-generating models, techniques for verifying AI-generated code through testing and review, and recognizing patterns where AI excels like boilerplate reduction, API exploration, and test generation versus areas requiring careful human judgment like security, architecture, and business logic.
+
+### Who should read it and why
+
+This book targets professional software developers, team leads, and engineering managers seeking to leverage AI coding assistants productively while maintaining code quality and security standards. Readers should have solid programming experience in at least one language and familiarity with development workflows, testing practices, and code review processes. The material appeals to developers wanting to accelerate routine tasks without sacrificing craftsmanship, skeptics wanting evidence-based guidance on AI tool effectiveness, and teams establishing best practices for AI-assisted development in production environments.
+
+### Practical applications
+
+The book provides practical workflows for using AI throughout the development lifecycle including ideation, implementation, debugging, refactoring, documentation, and testing. Readers learn specific prompting techniques for different tasks, strategies for iterative refinement of AI-generated code, and methods for incorporating AI suggestions while maintaining code quality through testing and review. The material covers team adoption patterns, establishing guardrails for AI usage, measuring productivity impacts, and avoiding common pitfalls like over-reliance, security vulnerabilities in generated code, and loss of learning opportunities for junior developers.

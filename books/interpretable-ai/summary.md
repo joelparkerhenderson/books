@@ -1,0 +1,11 @@
+### Key concepts
+
+Interpretable AI addresses the critical challenge of understanding and explaining machine learning model decisions, covering techniques from inherently interpretable models like decision trees and linear models through post-hoc explanation methods for black-box models including LIME, SHAP, and attention visualization. The book emphasizes the importance of interpretability for debugging models, building trust with stakeholders, ensuring regulatory compliance, and detecting bias or unfairness in automated decisions. Core concepts include the tradeoff between model complexity and interpretability, different stakeholder needs for explanations ranging from global model behavior to individual prediction justifications, and evaluation metrics for measuring explanation quality and faithfulness.
+
+### Who should read it and why
+
+This book targets ML practitioners, data scientists, and developers deploying models in regulated industries or high-stakes applications where explainability is mandatory or highly valued. Readers should have experience building ML models and understanding of common algorithms, seeking practical techniques for making their models more transparent and trustworthy. The material appeals to those facing regulatory requirements like GDPR's right to explanation, working in healthcare, finance, or legal domains where decisions must be justifiable, or anyone concerned about responsible AI deployment and detecting model failures or biases.
+
+### Practical applications
+
+The book provides hands-on techniques for generating feature importance scores, local explanations for individual predictions, counterfactual explanations showing how inputs would need to change for different outcomes, and global model summaries. Readers learn implementing SHAP values for unified explanation framework, using LIME for model-agnostic local interpretability, visualizing decision boundaries and learned representations, and building interpretable-by-design models when appropriate. The material covers communicating explanations to different audiences, validating explanation quality, and integrating interpretability into model development and deployment workflows for responsible AI systems.

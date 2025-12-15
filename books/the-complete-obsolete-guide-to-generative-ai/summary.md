@@ -1,0 +1,11 @@
+### Key concepts
+
+The Complete Obsolete Guide to Generative AI takes a unique, deliberately tongue-in-cheek approach to teaching generative AI by acknowledging how rapidly the field evolves, making any guide partially obsolete upon publication. The book covers current generative AI techniques including transformers, diffusion models, and GANs while explicitly discussing what will likely change, what principles remain constant, and how to stay current in a fast-moving field. Core concepts include understanding the difference between hype and genuine capability, recognizing patterns in AI evolution to anticipate future developments, and building adaptable knowledge that survives rapid technological change rather than memorizing implementation details destined for obsolescence.
+
+### Who should read it and why
+
+This book targets pragmatic practitioners, researchers, and technology leaders who recognize generative AI's rapid pace demands learning approaches beyond traditional technical books, requiring solid technical background and comfort with evolving best practices. The self-aware, humorous tone appeals to experienced technologists tired of books claiming comprehensive coverage of fields that transform monthly, and to those wanting honest discussion of uncertainties and limitations alongside capabilities. Readers benefit from frameworks for continuous learning, distinguishing enduring principles from temporary implementation details, and maintaining relevant expertise as generative AI continues evolving.
+
+### Practical applications
+
+The book provides strategies for staying current with generative AI developments, evaluating new techniques critically, and building systems that adapt as underlying technologies improve. Readers learn identifying which parts of their generative AI implementations need regular updates versus stable foundations, following emerging research effectively, and making technology decisions that acknowledge uncertainty about future directions. The material covers building flexible architectures that accommodate model improvements, establishing processes for evaluating and integrating new techniques, and developing professional practices for thriving in rapidly evolving technical domains.

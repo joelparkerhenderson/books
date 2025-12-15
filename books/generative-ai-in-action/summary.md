@@ -1,0 +1,11 @@
+### Key concepts
+
+Generative AI in Action demonstrates practical implementation of generative models for creating novel content including text, images, code, and data, focusing on real-world applications rather than theoretical foundations. The book covers transformer architectures, attention mechanisms, and foundation models like GPT and DALL-E, emphasizing how these systems learn patterns from training data to generate contextually appropriate outputs. Core technical concepts include prompt engineering techniques for controlling generation quality, fine-tuning pretrained models for domain-specific tasks, and understanding the difference between generative and discriminative models in production systems. The material addresses responsible AI considerations including bias mitigation, hallucination detection, content filtering, and ethical implications of synthetic content generation at scale.
+
+### Who should read it and why
+
+This book targets software developers, ML engineers, and technical professionals who want hands-on experience building generative AI applications using modern frameworks and APIs. Readers should have basic Python programming skills and understanding of machine learning concepts, though deep expertise in neural networks is not required. The material appeals to those building production systems that leverage generative capabilities for content creation, code assistance, creative tools, or data augmentation. It suits practitioners who need practical implementation guidance beyond research papers, with working code examples they can adapt for their specific use cases.
+
+### Practical applications
+
+The book provides actionable implementation patterns for integrating generative models into existing applications, including API usage, model selection criteria, and deployment strategies. Readers learn to build chatbots, content generation pipelines, code assistants, and multimodal applications combining text and image generation. Practical examples cover prompt optimization, few-shot learning, retrieval augmented generation for grounding outputs in factual data, and techniques for evaluating generation quality. The material includes production considerations like cost optimization, latency management, safety guardrails, and monitoring generative systems for drift and misuse.

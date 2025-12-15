@@ -1,0 +1,11 @@
+### Key concepts
+
+Time Series Forecasting Using Foundation Models explores applying large pretrained models originally designed for language or vision to time series prediction tasks, leveraging transfer learning and foundation model architectures for improved forecasting accuracy. The book covers adapting transformer architectures for temporal data, techniques for encoding time series as sequences suitable for foundation models, and combining traditional time series methods with modern deep learning approaches. Core concepts include using pretrained models to capture general temporal patterns transferable across domains, fine-tuning strategies for specific forecasting tasks, and understanding when foundation models outperform traditional statistical methods like ARIMA versus when simpler approaches suffice.
+
+### Who should read it and why
+
+This book targets data scientists, ML engineers, and forecasting practitioners working with time series data who want to leverage modern foundation model techniques beyond traditional statistical approaches. Readers should have experience with time series analysis and basic deep learning knowledge, seeking practical guidance on applying cutting-edge models to forecasting problems. The material appeals to those working on demand forecasting, financial prediction, energy load forecasting, or any domain where accurate temporal predictions drive business value and traditional methods have plateaued.
+
+### Practical applications
+
+The book provides implementation patterns for adapting foundation models to time series tasks including proper data preprocessing, encoding schemes for representing temporal data, attention mechanism configurations for capturing seasonal and trend patterns, and multi-horizon forecasting strategies. Readers learn fine-tuning pretrained models on domain-specific time series, combining multiple data sources through multimodal foundation models, handling irregular sampling and missing data, and implementing probabilistic forecasting for uncertainty quantification. The material covers evaluation metrics specific to forecasting, comparing foundation model approaches to classical baselines, and deploying models for production forecasting systems with continuous retraining and monitoring.

@@ -1,0 +1,11 @@
+### Key concepts
+
+How Large Language Models Work demystifies the inner workings of transformer-based language models, explaining how attention mechanisms enable understanding of context and relationships across long text sequences. The book breaks down the complete LLM pipeline from tokenization and embeddings through multi-headed attention, feedforward layers, and output generation, using clear diagrams and intuitive analogies rather than complex mathematics. Core concepts include the pretraining process using massive unlabeled text datasets to learn language patterns, the role of positional encodings in capturing word order, and how layer normalization and residual connections enable training deep networks. The material explains emergent capabilities like few-shot learning and chain-of-thought reasoning that arise from scale, while addressing limitations including hallucinations, reasoning failures, and the inability to access current information.
+
+### Who should read it and why
+
+This book targets curious technical professionals, product managers, and developers who want to understand LLM mechanics without implementing from scratch, requiring minimal machine learning background but benefiting from general programming knowledge. The material appeals to those using LLM APIs who want deeper insight into model behavior for better prompt design and application architecture, and business stakeholders making decisions about LLM adoption who need technical understanding without mathematical complexity. It suits anyone frustrated by treating LLMs as black boxes, seeking conceptual clarity on how billions of parameters work together to generate coherent text and why models sometimes fail predictably.
+
+### Practical applications
+
+The book provides mental models for predicting LLM behavior, understanding when models will succeed or struggle, and designing effective prompts based on how attention and context windows function. Readers learn practical implications of model architecture choices like context length limits, parameter scaling laws, and computational requirements for inference. The material covers interpreting model outputs, recognizing hallucination patterns, understanding fine-tuning versus prompting tradeoffs, and evaluating whether LLMs suit specific use cases based on their architectural capabilities and limitations.
