@@ -1,0 +1,13 @@
+# tmux: Productive Mouse-Free Development
+
+## Key Concepts
+
+tmux is a terminal multiplexer that revolutionizes how developers work with the command line by enabling multiple terminal sessions within a single window. The book teaches the core concepts of sessions, windows, and panes, which allow developers to organize their workspace efficiently. It covers essential operations like detaching and reattaching to sessions, which enables persistent workspaces that survive network interruptions, and explores advanced configuration through the .tmux.conf file to customize keybindings and visual styling. The book emphasizes how tmux can enhance productivity by eliminating mouse dependency and enabling developers to manage complex development environments entirely through keyboard commands, from running test suites in one pane while editing code in another to monitoring logs and databases simultaneously.
+
+## Who Should Read It and Why
+
+This book is ideal for developers, system administrators, and anyone who spends significant time working in terminal environments and wants to increase their productivity. It's particularly valuable for those working on remote servers where GUI access is limited or unavailable, and for developers who appreciate keyboard-driven workflows. The book assumes basic familiarity with Unix-like systems and the command line but doesn't require prior tmux experience. Web developers juggling multiple processes like web servers, database consoles, and text editors will find the techniques especially practical. Even experienced terminal users who haven't explored tmux will discover how much more efficient their workflow can become by mastering this tool.
+
+## Practical Applications
+
+The book provides immediately applicable skills for creating persistent development environments that can be accessed from anywhere, making it invaluable for remote work scenarios. Readers learn to create sophisticated pair programming setups where multiple developers can share a single tmux session, enabling real-time collaboration on the same codebase. The scripting techniques taught in the book allow developers to automate the creation of complex project-specific environments using tools like tmuxinator, launching all necessary services and editors with a single command. System administrators can use tmux to create monitoring dashboards that display multiple server metrics simultaneously, while developers can set up split panes to watch test output while coding. The book also covers integration with system clipboards, enabling seamless copying and pasting between tmux and other applications, which bridges the gap between terminal and graphical workflows.

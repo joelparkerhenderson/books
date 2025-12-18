@@ -1,0 +1,13 @@
+# Remote Pairing: Collaborative Tools for Distributed Development
+
+## Key Concepts
+
+Remote Pairing addresses the challenge of effective pair programming when developers are geographically distributed. The book explores various technological approaches to enable remote collaboration, from terminal-based solutions using tmux for text-only collaboration to screen-sharing tools like VNC and NX that provide complete visual access. It demonstrates how to set up secure tunnels through proxy servers, configure pairing servers using Vagrant and Puppet, and integrate collaborative coding into IDEs like Eclipse using Saros. The core premise is that physical proximity is not necessary for effective pair programming when developers leverage the right tools and techniques, and in some cases remote pairing can actually be superior to colocated pairing by providing better ergonomics and avoiding the sharing of physical peripherals.
+
+## Who Should Read It and Why
+
+This book is essential for software development teams that work remotely or include distributed members, as well as colocated teams interested in improving their pairing experience. It's particularly valuable for developers who want to maintain pair programming practices despite geographical constraints, managers looking to support remote work without sacrificing code quality, and teams transitioning to distributed work models. Even developers who sit near their colleagues may benefit from the techniques presented, as remote pairing tools can provide more comfortable and productive collaboration than sharing a single keyboard and mouse. The practical, tool-focused approach makes it accessible to developers with basic command-line skills and an interest in improving their collaborative workflows.
+
+## Practical Applications
+
+The book provides concrete implementations for establishing effective remote pairing sessions across various scenarios and technical stacks. Readers learn to set up tmux for sharing terminal sessions, configure reverse proxy servers in the cloud for connecting through firewalls, implement screen sharing for visual collaboration, and create dedicated pairing servers that team members can access on demand. These techniques apply directly to real-world situations such as mentoring junior developers across different office locations, collaborating on debugging sessions with distributed team members, and conducting remote code reviews with live interaction. The book also addresses practical concerns like dealing with latency issues, maintaining security during remote sessions, and choosing the appropriate tool for different collaboration needs, making it immediately actionable for teams facing the challenges of distributed development.

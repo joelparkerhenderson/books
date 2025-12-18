@@ -1,0 +1,11 @@
+# Key concepts
+
+High Performance PostgreSQL for Rails teaches developers how to optimize PostgreSQL database performance within Ruby on Rails applications through practical exercises using millions of rows of realistic data. The book covers essential database performance concepts including query optimization with EXPLAIN plans, index strategies (single-column, multicolumn, covering, and index-only scans), partition pruning, vacuum operations, lock management, and table partitioning techniques using tools like pgslice. Readers learn to balance performance trade-offs between query speed, write latency, and storage overhead while understanding when PostgreSQL chooses sequential scans versus index scans based on selectivity and cardinality.
+
+# Who should read it and why
+
+This book is essential for Rails developers and database administrators who manage growing applications facing performance challenges with large datasets. While the traditional DBA role has declined, modern developers are increasingly responsible for database performance, making these skills critical for anyone from startup engineers to enterprise developers. The content is particularly valuable for teams experiencing slow queries, database bloat, or unpredictable operations as their data and user base scales, providing the confidence and context needed to diagnose and resolve performance bottlenecks systematically.
+
+# Practical applications
+
+Readers will work through hands-on exercises using a realistic Rails application called Rideshare with millions of rows of data, learning to identify and optimize slow queries, create appropriate indexes with proper consideration for write costs, implement table partitioning for time-series data, scrub sensitive personal information while preserving statistical properties for development environments, and use tools like PgBadger for lock analysis. The book demonstrates practical techniques including using pg_cron for job scheduling, implementing logical replication, preventing accidental sensitive data commits, and choosing between tools like pgslice and pg_partman for different partitioning scenarios while integrating over 40 Ruby gems and PostgreSQL extensions from the open source ecosystem.

@@ -1,0 +1,13 @@
+# Serverless Single Page Apps
+
+## Key Concepts
+
+This book introduces a serverless architecture approach that eliminates traditional application servers by leveraging cloud services like Amazon S3, DynamoDB, Lambda, and Cognito to build scalable single-page web applications. The core idea is to shift infrastructure concerns from servers you manage to managed services that handle scaling, availability, and security automatically. The approach combines client-side JavaScript for application logic with cloud services for storage, authentication, and backend functions, creating applications that cost almost nothing to run at low scale but automatically handle massive growth. Throughout, the book emphasizes functional JavaScript programming without classes, test-driven development for confidence, and avoiding yak-shaving by using familiar tools and web standards.
+
+## Who Should Read It and Why
+
+Developers who want to build web applications without the operational overhead of managing servers will find this book transformative, whether they're launching a potential world-changing app or just starting in web development. Experienced web developers familiar with traditional MVC frameworks using Java, Ruby on Rails, or Node.js can learn how emerging cloud technologies enable fundamentally different architecture patterns. The book is particularly valuable for those who want to see a complete working example built incrementally through test-driven development rather than just reading about theory. Anyone interested in building applications that can scale from zero to millions of users without infrastructure rewrites or deployment nightmares will appreciate the practical, hands-on approach.
+
+## Practical Applications
+
+Readers build a complete serverless application step-by-step, starting with simple static hosting on S3 and progressively adding routing with hash events, user authentication via Google and Amazon Cognito, data persistence in DynamoDB, and microservices using Lambda functions exposed through API Gateway. Each chapter ends with deployment, reinforcing the deploy-first philosophy that keeps the application continuously runnable. The book covers essential practical concerns including implementing proper security against injection attacks and XSS, monitoring web services with CloudWatch, analyzing traffic, optimizing performance with CloudFront CDN, and understanding cloud costs. The test-driven approach throughout demonstrates how to build confidence through fast test suites, enabling developers to refactor continuously and adapt designs as requirements emerge rather than trying to predict everything upfront.

@@ -1,0 +1,13 @@
+# Hands-on Rust: Effective Learning through 2D Game Development and Play
+
+## Key Concepts
+
+Hands-on Rust teaches the Rust programming language through the practical and engaging medium of 2D game development. The book combines Rust's powerful features of memory safety, fearless concurrency, and close-to-metal performance with the creative and motivating context of building games. Starting with basic Rust concepts and progressing through increasingly complex game development challenges, readers create a Flappy Bird-style game before diving into a comprehensive dungeon crawler project. The book emphasizes learning by doing with short theory sections immediately followed by concrete coding examples, covering fundamental Rust concepts like ownership, pattern matching, and iterators while also introducing game development patterns such as Entity Component Systems (ECS), procedural generation, and game loops.
+
+## Who Should Read It and Why
+
+This book is perfect for programmers with basic coding experience in any language who want to learn Rust through practical application rather than dry theoretical study. It's ideal for developers curious about systems programming or game development who find traditional programming tutorials unmotivating, as well as Rust developers interested in exploring game development concepts. The pragmatic "learn by doing" approach makes it accessible to those who have written anything more complicated than a "Hello, World" program, while still providing depth for more experienced developers. Game developers familiar with other languages will appreciate seeing how Rust's unique features can be applied to game development challenges, making it a valuable resource for broadening technical skills while having fun.
+
+## Practical Applications
+
+Readers gain hands-on experience building complete, playable games while learning Rust concepts that transfer directly to other programming domains. The book walks through creating a flappy bird clone with game states, collision detection, and scoring systems, then progresses to developing a roguelike dungeon crawler with procedural map generation, field of view calculations, enemy AI, and combat systems. These projects teach immediately applicable skills including working with Rust's type system, managing state in interactive applications, implementing pathfinding algorithms, handling user input, and creating game loops. Beyond games, the patterns and techniques demonstrated apply to building any interactive application requiring real-time updates, complex state management, or performance-critical code, making the knowledge valuable for developers working on simulations, creative coding projects, or systems that demand both safety and speed.

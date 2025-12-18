@@ -1,0 +1,13 @@
+# Small, Sharp Software Tools
+
+## Key Concepts
+
+Small, Sharp Software Tools introduces readers to the combinatoric power of command-line utilities on Linux, macOS, and Windows systems running Bash. The book emphasizes how individual command-line tools can be composed together like building blocks to create powerful workflows, demonstrating the Unix philosophy of small, focused programs that do one thing well. It covers essential skills including filesystem navigation, text stream processing with tools like grep, sed, and awk, environment customization, process management, networking utilities, and automation through shell scripts and makefiles. The book uses GNU versions of utilities throughout to ensure consistency across platforms and provides practical guidance on working efficiently in terminal environments rather than relying solely on graphical interfaces.
+
+## Who Should Read It and Why
+
+This book is ideal for developers, system administrators, and anyone who regularly works with code or data and wants to become more productive at the command line. Software engineers working with frameworks like Node.js, Ruby, Python, Elixir, and React will benefit immensely since these ecosystems heavily depend on CLI tools. The book is particularly valuable for those transitioning from GUI-only environments or for experienced developers who want to formalize their command-line knowledge and learn the systematic approaches to common tasks. Whether you're deploying web applications, managing remote servers, processing log files, or automating development workflows, mastering these fundamental tools will significantly accelerate your work and reduce your dependence on heavyweight graphical applications.
+
+## Practical Applications
+
+Readers will learn to automate repetitive development tasks, create custom shell functions and aliases to reduce keystrokes, process large text files and logs efficiently using stream editors and pattern matching, manage remote servers via SSH and transfer files securely, build data processing pipelines by chaining commands together, and set up reproducible workstation configurations. The book provides hands-on exercises including creating a static site generator with make, writing interactive Bash scripts for project scaffolding, parsing and transforming data from web APIs using curl and text processing tools, and managing long-running processes with screen. These practical skills translate directly to real-world scenarios like automating deployment workflows, monitoring system resources, extracting insights from application logs, and building developer tools that integrate seamlessly into existing terminal-based workflows.

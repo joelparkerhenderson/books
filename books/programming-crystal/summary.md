@@ -1,0 +1,11 @@
+# Key concepts
+
+Programming Crystal introduces a statically-typed, compiled programming language that combines Ruby's elegant syntax with native code performance approaching C. The language emphasizes type safety through compile-time type checking and union types, eliminating runtime type errors while avoiding null pointer exceptions through explicit nilable types. Core features include lightweight concurrency through fibers and channels, macros for compile-time code generation, structs for performance-critical value types versus classes for reference types, and a carefully designed type hierarchy that delivers both safety and speed through techniques like method overloading and multiple dispatch.
+
+# Who should read it and why
+
+This book is ideal for developers seeking the productivity of dynamic languages like Ruby or Python combined with the performance and safety of compiled languages like Go or Rust. Ruby developers will find the transition nearly effortless and can reuse established patterns while gaining significant performance improvements, but the book is equally approachable for developers from other object-oriented or statically compiled languages, or even programming newcomers with basic programming knowledge. It's particularly valuable for teams building web applications, database-backed systems, or any scenario where developer happiness and code readability matter as much as execution speed.
+
+# Practical applications
+
+Readers will learn to build real-world applications including web services using frameworks like Kemal and Amber, database access through the unified crystal-db API supporting both SQL and NoSQL databases, and concurrent systems using fibers for lightweight parallelism. The book demonstrates practical techniques like binding to C libraries for leveraging existing code, using macros to reduce boilerplate while maintaining readability, choosing between structs and classes based on performance needs, organizing code with modules and namespaces, writing tests with the built-in spec framework, generating documentation, benchmarking code performance, and deploying Crystal applications. Each chapter includes real company stories showing how organizations successfully adopted Crystal for production systems.
